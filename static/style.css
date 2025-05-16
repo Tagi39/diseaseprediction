@@ -1,0 +1,44 @@
+body {
+    background-color: #fff0f5;  /* light pink */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+h2 {
+    color: #8e44ad; /* purple */
+    text-align: center;
+}
+
+form {
+    background: #fdfbff;
+    padding: 25px;
+    max-width: 600px;
+    margin: auto;
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+input[type="checkbox"] {
+    margin: 6px;
+}
+
+button {
+    background-color: #9b59b6;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #7d3c98;
+}
+
+h3 {
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 30px;
+}
